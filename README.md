@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A backend developer, Tech lover</h3>
 
+<p>
 📌 Back-end software engineer with over three years of industry and academic expertise in a variety of fields (i.e., enterprise resource planning, public entities, universities, and academic research).
 
 🛠️ My primary programming languages are Java, Kotlin, and Python, but I have also written code in a variety of other languages (e.g., Javascript, C,  etc.) and used a wide range of state-of-the-art tools, modern frameworks (e.g., Spring, Quarkus, ZK), and databases (e.g. Oracle, PostgreSQL, MySQL).
@@ -10,6 +11,7 @@
 💼 In addition to my engineering and research work, I worked as an adjunct instructor at Hellenic Mediterranean University's Department of Computer Science, teaching a variety of courses (e.g. Java, C, Python, etc.).
 
 🎯 To be able to work for an encouraging and reliable firm that will aid me in developing, improving, and getting the essential skills in order to become the best engineer possible.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
