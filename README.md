@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A backend developer, Tech lover</h3>
 
-<p>
+<p style="text-align: justify;text-justify: inter-word;">
 📌 Back-end software engineer with over three years of industry and academic expertise in a variety of fields (i.e., enterprise resource planning, public entities, universities, and academic research).
 
 🛠️ My primary programming languages are Java, Kotlin, and Python, but I have also written code in a variety of other languages (e.g., Javascript, C,  etc.) and used a wide range of state-of-the-art tools, modern frameworks (e.g., Spring, Quarkus, ZK), and databases (e.g. Oracle, PostgreSQL, MySQL).
