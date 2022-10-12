@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">A backend developer, Tech lover/h3>
+<h3 align="center">A backend developer, Tech lover</h3>
 
 📌 Back-end software engineer with over three years of industry and academic expertise in a variety of fields (i.e., enterprise resource planning, public entities, universities, and academic research).
 
