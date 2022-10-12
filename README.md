@@ -36,6 +36,6 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://www.zkoss.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1370461773/ZK_new_logo_400x400.png" alt="zk" width="40" height="40"/> </a> 
 
+<br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=npapatheodorou&show_icons=true&locale=en" alt="npapatheodorou" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=npapatheodorou&" alt="npapatheodorou" /></p>
