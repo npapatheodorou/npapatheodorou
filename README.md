@@ -2,15 +2,26 @@
 <h3 align="center">A backend developer, tech lover</h3>
 
 <p style="text-align: justify;text-justify: inter-word;">
-📌 Back-end software engineer with over three years of industry and academic expertise in a variety of fields (i.e., enterprise resource planning, public entities, universities, and academic research).
+🌟 As a main backend Java/Kotlin developer with over three years of industry and academic expertise, I have a passion for building scalable, secure, and high-performance systems that power web and mobile applications.
 
-🛠️ My primary programming languages are Java, Kotlin, and Python, but I have also written code in a variety of other languages (e.g., Javascript, C,  etc.) and used a wide range of state-of-the-art tools, modern frameworks (e.g., Spring, Quarkus, ZK), and databases (e.g. Oracle, PostgreSQL, MySQL).
+🚀 I have experience with a variety of programming languages, including Java, Kotlin, Python, JavaScript, and C, and have used a range of state-of-the-art tools and modern frameworks to build and optimize software systems. My primary goal is to leverage my expertise to contribute to innovative projects and create exceptional user experiences.
 
-🎓 My MSc thesis, "Self-Sovereign Identity (SSI) Management & Access Control," produced some really encouraging results on how a blockchain identity could be utilized in government's public entities. Two papers (DoS Detection on In-Vehicle Networks and COVID-19 Prediction) were presented at international conferences, and one workshop was held at Linaro Connect.
+🔒 As a backend developer, I am responsible for implementing and maintaining business logic, data validation, and security features such as authentication and authorization. I optimize database queries, caching, and manage the server infrastructure to ensure reliable and robust systems that can handle high volumes of traffic and user requests.
 
-💼 In addition to my engineering and research work, I worked as an adjunct instructor at Hellenic Mediterranean University's Department of Computer Science, teaching a variety of courses (e.g. Java, C, Python, etc.).
+🏭 I am a contributor to the digitisation of the DDE (or ePDE) of the Ministry of Development and Investment, the AEN, and the ANI where the Ministry of Maritime Affairs is involved. Specifically, the AENs concern the Electronic Course Management of the Merchant Marine Academies, while the ANI concerns the Electronic Management and Issuance of Certificates of Maritime Competency. I am also contributing to the appropriate infrastructure for the new product of the main etheria of the group I work for, Matrix Pack, which is the Production Planning Module.
 
-🎯 To be able to work for an encouraging and reliable firm that will aid me in developing, improving, and getting the essential skills in order to become the best engineer possible.
+🎓 My MSc thesis, "Self-Sovereign Identity (SSI) Management & Access Control," produced encouraging results on how blockchain identity could be utilized in government public entities. I have presented two papers, "DoS Detection on In-Vehicle Networks" and "COVID-19 Prediction," at international conferences and held a workshop at Linaro Connect.
+
+👨‍🏫 In addition to my engineering and research work, I have taught a variety of courses (e.g., Java, C, Python, etc.) as an adjunct instructor at Hellenic Mediterranean University's Department of Computer Science.
+
+🎯 I am currently seeking employment with a reputable and innovative firm that values professional growth and development. My goal is to join a team of dedicated and experienced professionals who share my passion for software development and are committed to creating cutting-edge solutions.
+
+📫 Please feel free to contact me via:
+
+🌀 LinkedIn
+
+✉️ Email: n.papatheodorou@pm.me
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
