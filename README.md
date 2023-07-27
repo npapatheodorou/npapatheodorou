@@ -35,7 +35,7 @@
 
 <h3 align="left">Frameworks:</h3>
 <a href="https://quarkus.io/" target="_blank"> <img src="https://plugins.jetbrains.com/files/13234/177186/icon/pluginIcon.svg" alt="quarkus" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank"> <img src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank"> <img src="[https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F7%2F79%2FSpring_Boot.svg&sp=1690464104T91718e6dc64197bff9155c20ff04c4279f2080ea021f2e8c207007cba67f9fee)" alt="spring" width="40" height="40"/> </a> 
 <a href="https://www.zkoss.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1370461773/ZK_new_logo_400x400.png" alt="zk" width="40" height="40"/> </a> 
 
 <br>
