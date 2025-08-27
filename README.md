@@ -1,52 +1,56 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">A backend developer, tech lover</h3>
+<h1 align="center">Hi there 👋, I'm Nick</h1>
+<h3 align="center">🚀 Backend Engineer | Java • Kotlin • Spring • Quarkus</h3>
 
-<p style="text-align: justify;text-justify: inter-word;">
-🌟 As a main backend Java/Kotlin developer with over three years of industry and academic expertise, I have a passion for building scalable, secure, and high-performance systems that power web and mobile applications.
-
-🚀 I have experience with a variety of programming languages, including Java, Kotlin, Python, JavaScript, and C, and have used a range of state-of-the-art tools and modern frameworks to build and optimize software systems. My primary goal is to leverage my expertise to contribute to innovative projects and create exceptional user experiences.
-
-🔒 As a backend developer, I am responsible for implementing and maintaining business logic, data validation, and security features such as authentication and authorization. I optimize database queries, caching, and manage the server infrastructure to ensure reliable and robust systems that can handle high volumes of traffic and user requests.
-
-🎓 My MSc thesis, "Self-Sovereign Identity (SSI) Management & Access Control," produced encouraging results on how blockchain identity could be utilized in government public entities. I have presented two papers, "DoS Detection on In-Vehicle Networks" and "COVID-19 Prediction," at international conferences and held a workshop at Linaro Connect.
-
-👨‍🏫 In addition to my engineering and research work, I have taught a variety of courses (e.g., Java, C, Python, etc.) as an adjunct instructor at Hellenic Mediterranean University's Department of Computer Science.
-
-🎯 I am currently seeking employment with a reputable and innovative firm that values professional growth and development. My goal is to join a team of dedicated and experienced professionals who share my passion for software development and are committed to creating cutting-edge solutions.
-
-📫 Please feel free to contact me via:
-
-🌀 LinkedIn
-
-✉️ Email: n.papatheodorou@pm.me
-
+<p align="center">
+🌟 Passionate about building <b>scalable, secure, and high-performance systems</b> for modern web and mobile applications.<br>
+🔧 Experienced in <b>Java, Kotlin, Python, JavaScript, and C</b> with hands-on expertise in state-of-the-art frameworks.<br>
+🎓 Strong research background in <b>blockchain, identity management, and cybersecurity</b>, with published papers & conference talks.<br>
+👨‍🏫 Former academic tutor (Java, C, Python) at <b>Hellenic Mediterranean University</b>.<br>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
 <p align="left">
-<a href="https://twitter.com/n_papatheodorou" target="blank"><img align="center" src="https://img.icons8.com/color/344/twitter--v1.png" alt="npapatheodorou" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/npapatheodorou" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-2--v1.png" alt="npapatheodorou" height="30" width="40" /></a>
-
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/452/kotlin.png" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/344/python--v1.png" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/344/c-programming.png" alt="c" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin" width="40" height="40"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/python.png" alt="python" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/c-programming.png" alt="c" width="40" height="40"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/javascript.png" alt="javascript" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Databases:</h3>
-<a href="https://www.oracle.com/database/" target="_blank"> <img src="https://m.media-amazon.com/images/I/41QodfboFdL.png" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/310px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://bobcares.com/wp-content/uploads/2022/06/mysql.png" alt="mysql" width="40" height="40"/> </a> 
+#### 🗄️ Databases
+<p align="left">
+<a href="https://www.oracle.com/database/" target="_blank"><img src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql" width="40" height="40"/></a>
+</p>
 
-<h3 align="left">Frameworks:</h3>
-<a href="https://quarkus.io/" target="_blank"> <img src="https://plugins.jetbrains.com/files/13234/177186/icon/pluginIcon.svg" alt="quarkus" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://www.zkoss.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1370461773/ZK_new_logo_400x400.png" alt="zk" width="40" height="40"/> </a> 
+#### ⚡ Frameworks & Tools
+<p align="left">
+<a href="https://spring.io/" target="_blank"><img src="https://img.icons8.com/color/48/spring-logo.png" alt="spring" width="40" height="40"/></a>
+<a href="https://quarkus.io/" target="_blank"><img src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_icon_rgb_512px_default.png" alt="quarkus" width="40" height="40"/></a>
+<a href="https://www.zkoss.org/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1370461773/ZK_new_logo_400x400.png" alt="zk" width="40" height="40"/></a>
+</p>
 
-<br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=npapatheodorou&show_icons=true&locale=en" alt="npapatheodorou" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=npapatheodorou&" alt="npapatheodorou" /></p>
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=npapatheodorou&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=npapatheodorou&theme=tokyonight" alt="GitHub streak stats" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/npapatheodorou" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" width="40" height="40"/></a>
+<a href="https://twitter.com/n_papatheodorou" target="blank"><img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="twitter" width="40" height="40"/></a>
+<a href="mailto:n.papatheodorou@pm.me"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="email" width="40" height="40"/></a>
+</p>
+
+---
