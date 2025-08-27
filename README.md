@@ -41,16 +41,13 @@
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=npapatheodorou&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=npapatheodorou&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
+<a href="mailto:n.papatheodorou@pm.me"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-protonmail-an-end-to-end-encrypted-email-service-favicon-color-tal-revivo.png" alt="protonmail" width="40" height="40"/></a>
 <a href="https://linkedin.com/in/npapatheodorou" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" width="40" height="40"/></a>
 <a href="https://twitter.com/n_papatheodorou" target="blank"><img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="twitter" width="40" height="40"/></a>
-<a href="mailto:n.papatheodorou@pm.me"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="email" width="40" height="40"/></a>
 </p>
-
----
