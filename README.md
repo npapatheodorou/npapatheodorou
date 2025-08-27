@@ -47,7 +47,7 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="mailto:n.papatheodorou@pm.me"><a href="mailto:n.papatheodorou@pm.me"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/ProtonMail_logo.png" alt="protonmail" width="40" height="40"/></a>
+<a href="mailto:n.papatheodorou@pm.me"><a href="mailto:n.papatheodorou@pm.me"><img src="https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fmail_xxy4bg.svg" alt="protonmail" width="40" height="40"/></a>
 <a href="https://linkedin.com/in/npapatheodorou" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" width="40" height="40"/></a>
 <a href="https://twitter.com/n_papatheodorou" target="blank"><img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="twitter" width="40" height="40"/></a>
 </p>
