@@ -53,9 +53,18 @@
 <td width="40%" valign="top">
 <h3>Metrics 📊</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=npapatheodorou&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npapatheodorou&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top languages" height="150" />
-  <img src="https://streak-stats.demolab.com?user=npapatheodorou&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub streak" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=npapatheodorou&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+    <img src="https://github-readme-stats.vercel.app/api?username=npapatheodorou&show_icons=true&theme=default&hide_border=true&cache_seconds=21600" alt="GitHub stats" height="150" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=npapatheodorou&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npapatheodorou&layout=compact&theme=default&hide_border=true&cache_seconds=21600" alt="Top languages" height="150" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=npapatheodorou&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+    <img src="https://streak-stats.demolab.com?user=npapatheodorou&theme=default&hide_border=true&cache_seconds=21600" alt="GitHub streak" height="150" />
+  </picture>
 </p>
 </td>
 </tr>
@@ -63,6 +72,7 @@
 
 ### Focus Map 🗺️
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#DBEAFE','primaryTextColor':'#0F172A','primaryBorderColor':'#3B82F6','secondaryColor':'#CCFBF1','secondaryTextColor':'#0F172A','secondaryBorderColor':'#14B8A6','tertiaryColor':'#FEF3C7','tertiaryTextColor':'#0F172A','tertiaryBorderColor':'#F59E0B','lineColor':'#475569','textColor':'#0F172A'}}}%%
 mindmap
   root((Backend))
     JVM
@@ -86,7 +96,10 @@ mindmap
 
 ### Activity 🔥
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=npapatheodorou&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=npapatheodorou&theme=tokyo-night&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=npapatheodorou&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
+  </picture>
 </p>
 
 ### Connect 🤝
