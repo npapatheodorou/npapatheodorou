@@ -54,16 +54,7 @@
 <h3>Metrics 📊</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=npapatheodorou&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-    <img src="https://github-readme-stats.vercel.app/api?username=npapatheodorou&show_icons=true&theme=default&hide_border=true&cache_seconds=21600" alt="GitHub stats" height="150" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=npapatheodorou&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npapatheodorou&layout=compact&theme=default&hide_border=true&cache_seconds=21600" alt="Top languages" height="150" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=npapatheodorou&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-    <img src="https://streak-stats.demolab.com?user=npapatheodorou&theme=default&hide_border=true&cache_seconds=21600" alt="GitHub streak" height="150" />
+    <img src="assets/metrics.plugin.habits.charts.svg" alt="Metrics" />
   </picture>
 </p>
 </td>
@@ -97,8 +88,7 @@ mindmap
 ### Activity 🔥
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=npapatheodorou&theme=tokyo-night&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=npapatheodorou&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
+    <img src="assets/metrics.plugin.isocalendar.fullyear.svg" alt="Full-Year Activity" />
   </picture>
 </p>
 
