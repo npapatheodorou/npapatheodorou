@@ -5,7 +5,7 @@
 <div align="center">
   Scalable, secure, high-performance backend systems. ⚡🔒<br/>
   🧠 JVM-first | 🛡️ Security-minded | 🚀 Performance-tuned
-</div>
+</div><br>
 
 <div align="center">
   <a href="https://npapatheodorou.github.io"><img src="https://img.shields.io/badge/Portfolio-npapatheodorou.github.io-2563EB?style=for-the-badge" alt="Portfolio" /></a>
