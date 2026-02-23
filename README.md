@@ -90,12 +90,6 @@ I design and build JVM-first backend systems for modern web and mobile applicati
 
 ### 📈 Metrics
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=npapatheodorou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npapatheodorou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top languages" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=npapatheodorou&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6" alt="GitHub streak" />
 </p>
 
