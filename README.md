@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,100:2563EB&text=Nikolaos%20Papatheodorou&fontColor=FFFFFF&fontSize=36&fontAlignY=36&desc=DevOps%20Engineer%20|%20JVM-first%20Backend%20|%20Secure%20Systems&descAlignY=58" alt="Nikolaos Papatheodorou banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,100:2563EB&text=Nikos%20Papatheodorou&fontColor=FFFFFF&fontSize=36&fontAlignY=36&desc=DevOps%20Engineer%20|%20JVM-first%20Backend%20|%20Secure%20Systems&descAlignY=58" alt="Nikos Papatheodorou banner" />
 </div>
 
 <div align="center">
