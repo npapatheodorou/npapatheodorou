@@ -198,7 +198,9 @@ graph LR
 ## 🔥 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=npapatheodorou&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=F97316" width="100%" alt="Contribution activity graph" />
+  <picture>
+    <img src="assets/metrics.plugin.isocalendar.fullyear.svg" alt="Full-Year Activity" />
+  </picture>
 </div>
 
 ## 🤝 Connect
