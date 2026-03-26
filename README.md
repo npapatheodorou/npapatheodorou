@@ -8,7 +8,7 @@
 </div><br>
 
 <div align="center">
-  <a href="https://npapatheodorou-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-npapatheodorou.github.io-2563EB?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://npapatheodorou.dev/"><img src="https://img.shields.io/badge/Portfolio-npapatheodorou.dev-2563EB?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/npapatheodorou"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:n.papatheodorou@pm.me"><img src="https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/n_papatheodorou"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
